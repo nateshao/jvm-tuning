@@ -26,9 +26,8 @@ import java.io.IOException;
         Time：执行编译任务所花费的时间
         FailedType：上次失败的编译的编译类型
         FailedMethod：上次失败的编译的类名和方法
-
-
  */
+
 public class Demo02 {
     public static void main(String[] args) throws IOException {
         System.out.println("jstat");

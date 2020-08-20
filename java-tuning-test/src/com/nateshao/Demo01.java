@@ -23,6 +23,5 @@ public class Demo01 {
     public static void main(String[] args) throws IOException {
         System.out.println("jps");
         System.in.read();
-
     }
 }

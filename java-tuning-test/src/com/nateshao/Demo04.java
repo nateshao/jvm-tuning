@@ -47,8 +47,6 @@ import java.io.IOException;
 
         注意：jinfo虽然可以在java程序运行时动态地修改虚拟机参数，但并不是所有的参数都支持动态修改
 
-
-
  */
 public class Demo04 {
     public static void main(String[] args) throws IOException {
